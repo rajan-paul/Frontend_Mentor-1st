@@ -19,7 +19,7 @@ This simply refreshed my mind in creating a basic yet responsive QR Page.
 
 ### Screenshot
 
-![](./Screenshot_desktop.png)
+![](images/Screenshot_desktop.png)
 
 ### Built with
 
@@ -46,7 +46,7 @@ There are a lot of aspects in which needs development. Making a fully responsive
 
 - Website - [Rajan Paul Francisco](https://github.com/rajan-paul)
 
-- Frontend Mentor - [@rajan-paule](https://www.frontendmentor.io/profile/rajan-paul)
+- Frontend Mentor - [@rajan-paul](https://www.frontendmentor.io/profile/rajan-paul)
 
 
 ## Acknowledgments
