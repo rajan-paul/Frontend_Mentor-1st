@@ -1,0 +1,83 @@
+@media screen and (min-width: 500px) { 
+    
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+body {
+background-color: hsl(212, 45%, 89%);
+display: flex;
+justify-content: center;
+margin-top: 20svh;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    background-color: aliceblue;
+    width: 250px;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.heading {
+    text-align: center; 
+}
+.heading p {
+    opacity: 50%;
+}
+}
+/* CSS for MOBILE */
+@media screen and (max-width: 499px) {
+    .attribution { 
+        font-size: 11px; 
+        text-align: center; 
+    }
+    .attribution a { 
+        color: hsl(228, 45%, 44%); 
+    }
+
+    body {
+        background-color: hsl(212, 45%, 89%);
+        display: flex;
+        justify-content: center;
+        margin-top: 25%;
+        
+        }
+
+    img {
+        width: 250px;
+        height: 250px;
+        border-radius: 10px;
+    }
+
+    .card {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+        background-color: aliceblue;
+        width: 250px;
+        border-radius: 15px;
+        padding: 10px;
+}
+.heading {
+    text-align: center; 
+}
+.heading p {
+    opacity: 50%;
+}
+}
