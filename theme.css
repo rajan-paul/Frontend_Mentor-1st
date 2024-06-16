@@ -1,4 +1,4 @@
-@media screen and (min-width: 500px) { 
+@media screen and (min-width: 1440px) { 
     
 
 .attribution { 
@@ -41,7 +41,7 @@ img {
 }
 }
 /* CSS for MOBILE */
-@media screen and (max-width: 499px) {
+@media screen and (max-width: 375px) {
     .attribution { 
         font-size: 11px; 
         text-align: center; 
